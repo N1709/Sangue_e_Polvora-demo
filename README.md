@@ -22,7 +22,7 @@
 - **1** - switch to Gun
 - **2** - switch to HT Radio
 - **3** - switch to Hand
-- **Left Click** - shoot (Gun) / turn HT Radio on-off
+- **Left Click** - shoot (Gun) / turn HT Radio on-off + on mic
 - **Right Click** - raise/lower weapon (ready stance), needed before you can shoot
 - **R** - reload
 - **V** - toggle Full Auto / Semi Auto (Gun only)
