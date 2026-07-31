@@ -1,6 +1,6 @@
 # Sangue e Pólvora - demo
 
-<img width="1276" height="679" alt="gambar" src="https://github.com/user-attachments/assets/aef8f486-1f5b-4db8-a87b-074ff96d6444" />
+<img width="1276" height="709" alt="gambar" src="https://github.com/user-attachments/assets/950efa0c-5003-4d0d-9e47-fdc8fc9d1f6e" />
 
 **Support**
 - Linux 64
