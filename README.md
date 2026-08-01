@@ -6,8 +6,6 @@
 - Linux 64
 - Windows 64
 
-**Don't expect much from this version. It's just a process.**
-
 ## Controls
 
 ### Movement
@@ -36,3 +34,5 @@
 
 ### Menu
 - **Esc** - open/close pause menu
+
+**Don't expect much from this version. It's just a process.**
